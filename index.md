@@ -1,1 +1,3 @@
 # <h1> lady gaga 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
